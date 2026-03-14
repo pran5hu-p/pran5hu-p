@@ -78,7 +78,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔗 [Shrinkit — URL Shortener](https://github.com/pran5hu-p/Shrinkit-URL-Shortner-)
+### 🔗 [Shrinkit — URL Shortener](https://github.com/pran5hu-p/Shrinkit-URL-Shortner-) *(In Progress 🚧)*
 High-performance URL shortener focused on sub-millisecond redirection and custom aliases. Evolving into an intelligent link management suite with real-time analytics, dynamic QR code generation, and AI-powered link summaries.
 
 ### 📈 [TracKrypto](https://github.com/pran5hu-p/TracKrypto)
